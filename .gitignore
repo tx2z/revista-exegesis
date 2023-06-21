@@ -1,0 +1,28 @@
+public/wp-content/uploads/wp2static-crawled-site
+public/wp-content/uploads/wp2static-processed-site
+public/wp-content/uploads/wp2static-processed-site.zip
+
+/wp-admin/
+/wp-content/index.php
+/wp-content/languages
+/wp-content/plugins/index.php
+/wp-content/themes/index.php
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+# Configuration
+wp-config.php
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
+
+.DS_Store
+Thumbs.db
+
