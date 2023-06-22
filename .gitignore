@@ -2,26 +2,25 @@ public/wp-content/uploads/wp2static-crawled-site
 public/wp-content/uploads/wp2static-processed-site
 public/wp-content/uploads/wp2static-processed-site.zip
 
-/wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/wp-includes/
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+public/wp-admin/
+public/wp-content/index.php
+public/wp-content/plugins/index.php
+public/wp-content/themes/index.php
+public/wp-includes/
+public/index.php
+public/license.txt
+public/readme.html
+public/wp-*.php
+public/xmlrpc.php
 
 # Configuration
-wp-config.php
+public/wp-config.php
 
 # Log files
 *.log
 
 # htaccess
-/.htaccess
+public/.htaccess
 
 .DS_Store
 Thumbs.db
