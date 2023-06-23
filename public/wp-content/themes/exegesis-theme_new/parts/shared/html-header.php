@@ -27,10 +27,10 @@
 -->
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<script src="//www.revista-exegesis.com/wp-content/themes/exegesis-theme/js/css3-mediaqueries.js"></script>
+<script src="//revista-exegesis.com/wp-content/themes/exegesis-theme/js/css3-mediaqueries.js"></script>
 <![endif]-->
 <!--icomoon compatibilidad con IE7-->
-<!--[if lte IE 7]><script src="//www.revista-exegesis.com/wp-content/themes/exegesis-theme/icons/lte-ie7.js"></script><![endif]-->
+<!--[if lte IE 7]><script src="//revista-exegesis.com/wp-content/themes/exegesis-theme/icons/lte-ie7.js"></script><![endif]-->
 
 <?php wp_head(); ?>
 

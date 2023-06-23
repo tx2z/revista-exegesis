@@ -231,7 +231,7 @@
 	// personalizar url logo acceso
 	add_action( 'login_headerurl', 'my_custom_login_url' );
 	function my_custom_login_url() {
-		return 'http://www.revista-exegesis.com';
+		return 'http://revista-exegesis.com';
 	}
 
 	//Cambiar texto alt del logo de login

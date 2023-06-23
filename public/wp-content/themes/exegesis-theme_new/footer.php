@@ -17,7 +17,7 @@
                 </ul>
 
 
-                <a href="https://www.facebook.com/groups/revistaexegesis/" target="_blank"><img src="//www.revista-exegesis.com/wp-content/uploads/2012/03/unete-grupo.png" alt="Unete a nuestro grupo de Facebook"></a>
+                <a href="https://www.facebook.com/groups/revistaexegesis/" target="_blank"><img src="//revista-exegesis.com/wp-content/uploads/2012/03/unete-grupo.png" alt="Unete a nuestro grupo de Facebook"></a>
 
 
             </li>

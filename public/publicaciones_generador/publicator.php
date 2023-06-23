@@ -43,7 +43,7 @@ if (!$_FILES['pubicon']['tmp_name']) {
 }
 
 // Create file
-wwwcopy('http://www.revista-exegesis.com/generador_de_publicaciones/tester/tester.php?page=' . $_POST['pagetester'] . '&name=' . $_POST['nametester'], $target_folder . 'index.html');
+wwwcopy('http://revista-exegesis.com/generador_de_publicaciones/tester/tester.php?page=' . $_POST['pagetester'] . '&name=' . $_POST['nametester'], $target_folder . 'index.html');
 
 $url = 'ok.php?newurl=' . $url_folder;
 

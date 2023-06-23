@@ -52,7 +52,7 @@
 					</p>
 					<label for="puburl">URL para la publicación:</label>
 					<br />
-					http://www.revista-exegesis.com/publicaciones/
+					http://revista-exegesis.com/publicaciones/
 					<input name="puburl" class="magazineNumber" value="" required style="text-align: left;" />
 					<p>
 						¡Ya está todo! haz click en "Publicar" y espera a que se suba el icono y se genere la página (no debería tardar mucho).
@@ -93,7 +93,7 @@
 			<?php } else { ?>
 			<h1>¡Conseguido!</h1>
 			<p>
-				La url de la publicación que acabas de generar es: <a href="http://www.revista-exegesis.com/publicaciones/<?php echo $_GET["newurl"] ?>">http://www.revista-exegesis.com/publicaciones/<?php echo $_GET["newurl"]
+				La url de la publicación que acabas de generar es: <a href="http://revista-exegesis.com/publicaciones/<?php echo $_GET["newurl"] ?>">http://revista-exegesis.com/publicaciones/<?php echo $_GET["newurl"]
 				?></a>
 			</p>
 			<p>

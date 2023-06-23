@@ -134,7 +134,7 @@
 						</p>
 						<br /><br />
 						<p>
-							Fundada en 2009 como la única publicación on-line en español centrada en el cómic y la ciencia ficción, Revista Exégesis ofrece en su web (<a href="http://www.revista-exegesis.com" target="_blank">http://www.revista-exegesis.com</a>) varias publicaciones semanales, compiladas cada dos meses en un número digital – descargable en formatos .pdf y .cbr/.cbz - y esta versión para tablets y dispositivos portátiles en formato html.
+							Fundada en 2009 como la única publicación on-line en español centrada en el cómic y la ciencia ficción, Revista Exégesis ofrece en su web (<a href="http://revista-exegesis.com" target="_blank">http://revista-exegesis.com</a>) varias publicaciones semanales, compiladas cada dos meses en un número digital – descargable en formatos .pdf y .cbr/.cbz - y esta versión para tablets y dispositivos portátiles en formato html.
 						</p>
 						<p>
 							Desde sus inicios, Exégesis destaca por la ingente cantidad de autores que colaboran en sus páginas, procedentes de diversos países situados a ambos lados del océano Atlántico. Fue en la segunda etapa de la revista cuando se extendieron sus fronteras al incluir trabajos de autores de habla inglesa; procedentes de Reino Unido, Estados Unidos y Australia. Asimismo se consolidó el actual canon de calidad, manteniendo un claro rigor en las maquetaciones de las compilaciones, como en los contenidos de los proyectos a publicar.

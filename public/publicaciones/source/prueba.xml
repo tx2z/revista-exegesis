@@ -19,7 +19,7 @@
 		<Type><![CDATA[about]]></Type>
 		<Title><![CDATA[Sobre Exégesis]]></Title>
 		<Txt><![CDATA[						<p>
-							Fundada en 2009 como la única publicación on-line en español centrada en el cómic y la ciencia ficción, Revista Exégesis ofrece en su web (<a href="http://www.revista-exegesis.com" target="_blank">http://www.revista-exegesis.com</a>) varias publicaciones semanales, compiladas cada dos meses en un número digital – descargable en formatos .pdf y .cbr/.cbz - y esta versión para tablets y dispositivos portátiles en formato html.
+							Fundada en 2009 como la única publicación on-line en español centrada en el cómic y la ciencia ficción, Revista Exégesis ofrece en su web (<a href="http://revista-exegesis.com" target="_blank">http://revista-exegesis.com</a>) varias publicaciones semanales, compiladas cada dos meses en un número digital – descargable en formatos .pdf y .cbr/.cbz - y esta versión para tablets y dispositivos portátiles en formato html.
 						</p>
 						<p>
 							Desde sus inicios, Exégesis destaca por la ingente cantidad de autores que colaboran en sus páginas, procedentes de diversos países situados a ambos lados del océano Atlántico. Fue en la segunda etapa de la revista cuando se extendieron sus fronteras al incluir trabajos de autores de habla inglesa; procedentes de Reino Unido, Estados Unidos y Australia. Asimismo se consolidó el actual canon de calidad, manteniendo un claro rigor en las maquetaciones de las compilaciones, como en los contenidos de los proyectos a publicar.
@@ -47,7 +47,7 @@
 <p>In dapibus mattis lectus, feugiat luctus nisl accumsan non. In hac habitasse platea dictumst. Etiam eu orci quis justo feugiat mollis. Fusce id ligula nibh, sed tempor orci. Phasellus vestibulum pharetra nunc, eget laoreet diam eleifend vitae. Sed rutrum lorem sed lorem volutpat pulvinar. Nullam orci nunc, tempor at laoreet nec, vulputate non eros. Morbi est purus, pulvinar quis commodo imperdiet, aliquet nec ligula. In vel leo velit, id fermentum odio. Ut tincidunt ultricies egestas. Duis eu mauris et purus aliquet eleifend. Donec eu dui sit amet mauris auctor aliquam. Suspendisse in lacus mi, ut cursus turpis.</p>
 <p>IMG2</p>
 <p>Aenean nec quam in leo accumsan tristique non sit amet metus. Sed sodales lobortis diam non congue. Morbi tristique risus vitae nibh varius vestibulum. In iaculis tristique nunc, eu gravida augue commodo eget. Morbi ut quam sed purus sagittis vestibulum. Nullam vel lorem in mi dictum rhoncus. Maecenas nisi magna, dignissim in hendrerit eget, suscipit vel quam.</p>]]></Txt>
-		<Url><![CDATA[http://www.revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
 	</Page>
 	<Page id="2">
 		<Title><![CDATA[Efemeride prueba 1]]></Title>
@@ -56,7 +56,7 @@
 		<Img>
 			<Image pos="1">../source/prueba/page2/06_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
 	</Page>
 	<Page id="3">
 		<Title><![CDATA[Efemeride 2 (varias páginas)]]></Title>
@@ -67,7 +67,7 @@
 			<Image pos="2">../source/prueba/page3/13_jpg.jpg</Image>
 			<Image pos="3">../source/prueba/page3/14_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
 	</Page>
 	<Page id="4">
 		<Title><![CDATA[Un relato de mentira]]></Title>
@@ -84,7 +84,7 @@
 <p>Suspendisse ipsum lacus, condimentum eu pulvinar non, luctus vitae lorem. Aliquam eget aliquam metus. Mauris ipsum diam, tincidunt sed consectetur non, laoreet vitae velit. Fusce gravida augue id justo convallis commodo. Etiam ultrices sapien sed dolor egestas id porttitor odio ultrices. Nulla nec erat odio. Suspendisse ultrices sapien at justo euismod porta. Nulla aliquam ullamcorper ligula vitae venenatis. Nulla suscipit neque sed nunc facilisis feugiat. Proin vitae metus leo, scelerisque euismod lorem.</p>
 <p>In dapibus mattis lectus, feugiat luctus nisl accumsan non. In hac habitasse platea dictumst. Etiam eu orci quis justo feugiat mollis. Fusce id ligula nibh, sed tempor orci. Phasellus vestibulum pharetra nunc, eget laoreet diam eleifend vitae. Sed rutrum lorem sed lorem volutpat pulvinar. Nullam orci nunc, tempor at laoreet nec, vulputate non eros. Morbi est purus, pulvinar quis commodo imperdiet, aliquet nec ligula. In vel leo velit, id fermentum odio. Ut tincidunt ultricies egestas. Duis eu mauris et purus aliquet eleifend. Donec eu dui sit amet mauris auctor aliquam. Suspendisse in lacus mi, ut cursus turpis.</p>
 <p>Aenean nec quam in leo accumsan tristique non sit amet metus. Sed sodales lobortis diam non congue. Morbi tristique risus vitae nibh varius vestibulum. In iaculis tristique nunc, eu gravida augue commodo eget. Morbi ut quam sed purus sagittis vestibulum. Nullam vel lorem in mi dictum rhoncus. Maecenas nisi magna, dignissim in hendrerit eget, suscipit vel quam.</p>]]></Txt>
-		<Url><![CDATA[http://www.revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
 	</Page>
 	<Page id="5">
 		<Title><![CDATA[Efemeride 4]]></Title>
@@ -93,7 +93,7 @@
 		<Img>
 			<Image pos="1">../source/prueba/page5/26_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
 	</Page>
 	<Page id="6">
 		<Title><![CDATA[Ejemplo de baulera]]></Title>
@@ -110,6 +110,6 @@
 <p>In dapibus mattis lectus, feugiat luctus nisl accumsan non. In hac habitasse platea dictumst. Etiam eu orci quis justo feugiat mollis. Fusce id ligula nibh, sed tempor orci. Phasellus vestibulum pharetra nunc, eget laoreet diam eleifend vitae. Sed rutrum lorem sed lorem volutpat pulvinar. Nullam orci nunc, tempor at laoreet nec, vulputate non eros. Morbi est purus, pulvinar quis commodo imperdiet, aliquet nec ligula. In vel leo velit, id fermentum odio. Ut tincidunt ultricies egestas. Duis eu mauris et purus aliquet eleifend. Donec eu dui sit amet mauris auctor aliquam. Suspendisse in lacus mi, ut cursus turpis.</p>
 <p>Aenean nec quam in leo accumsan tristique non sit amet metus. Sed sodales lobortis diam non congue. Morbi tristique risus vitae nibh varius vestibulum. In iaculis tristique nunc, eu gravida augue commodo eget. Morbi ut quam sed purus sagittis vestibulum. Nullam vel lorem in mi dictum rhoncus. Maecenas nisi magna, dignissim in hendrerit eget, suscipit vel quam.</p>
 <p>IMG2</p>]]></Txt>
-		<Url><![CDATA[http://www.revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2012/04/efemeride-3-de-abril/]]></Url>
 	</Page>
 </Revista>

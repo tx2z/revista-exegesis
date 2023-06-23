@@ -29,9 +29,9 @@
 <p>Autor: Jesús Pérez</p>
 <p>Editor de colección: Blas Bigatti</p>
 <p>Todos los contenidos publicados se encuentran protegidos bajo los términos de la licencia Creative Commons Atribución-No Comercial-CompartirIgual 3.0 Unported.</p>
-<p>'2059' fue publicada originalmente entre 2009 y 2011 en Revista Exégesis (<a href="../" target="_blank">http://www.revista-exegesis.com</a>)</p>
+<p>'2059' fue publicada originalmente entre 2009 y 2011 en Revista Exégesis (<a href="../" target="_blank">http://revista-exegesis.com</a>)</p>
 <p><br /><strong>SOBRE REVISTA EXÉGESIS</strong></p>
-<p>Fundada en 2009 como la única publicación on-line en español centrada en el cómic y la ciencia ficción, Revista Exégesis ofrece en su web (<a href="../" target="_blank">http://www.revista-exegesis.com</a>) varias publicaciones semanales, compiladas cada dos meses en un número digital – descargable en formatos .pdf y .cbr/.cbz - y esta versión para tablets y dispositivos portátiles en formato html.</p>
+<p>Fundada en 2009 como la única publicación on-line en español centrada en el cómic y la ciencia ficción, Revista Exégesis ofrece en su web (<a href="../" target="_blank">http://revista-exegesis.com</a>) varias publicaciones semanales, compiladas cada dos meses en un número digital – descargable en formatos .pdf y .cbr/.cbz - y esta versión para tablets y dispositivos portátiles en formato html.</p>
 <p>La ciencia ficción, el cómic y la ilustración tienen hoy en Exégesis una publicación rica en matices, con gran capacidad para la reinvención y siempre dispuesta a adaptarse a nuevos retos.</p>]]></Txt>
 	</About>
 	<Page id="1">
@@ -65,7 +65,7 @@
 			<Image pos="5">../source/2059/page2/2059_1_5ok_jpg.jpg</Image>
 			<Image pos="6">../source/2059/page2/2059_1_6ok_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2009/05/2059-1-un-lugar-para-cambiar/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2009/05/2059-1-un-lugar-para-cambiar/]]></Url>
 	</Page>
 	<Page id="3">
 		<Title><![CDATA[2 - A través del túnel]]></Title>
@@ -79,7 +79,7 @@
 			<Image pos="5">../source/2059/page3/page_5_jpg.jpg</Image>
 			<Image pos="6">../source/2059/page3/page_6_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2009/09/2059-2-a-traves-del-tunel/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2009/09/2059-2-a-traves-del-tunel/]]></Url>
 	</Page>
 	<Page id="4">
 		<Title><![CDATA[3 - Puta]]></Title>
@@ -92,7 +92,7 @@
 			<Image pos="4">../source/2059/page4/page_4_jpg.jpg</Image>
 			<Image pos="5">../source/2059/page4/page_5_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2009/12/2059-3-puta/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2009/12/2059-3-puta/]]></Url>
 	</Page>
 	<Page id="5">
 		<Title><![CDATA[4 - Debate]]></Title>
@@ -106,7 +106,7 @@
 			<Image pos="5">../source/2059/page5/page_5_jpg.jpg</Image>
 			<Image pos="6">../source/2059/page5/page_6_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2010/03/2059-4-debate/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2010/03/2059-4-debate/]]></Url>
 	</Page>
 	<Page id="6">
 		<Title><![CDATA[5 - Guerra]]></Title>
@@ -120,7 +120,7 @@
 			<Image pos="5">../source/2059/page6/pg5_jpg.jpg</Image>
 			<Image pos="6">../source/2059/page6/pg6_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2010/10/2059-5-guerra/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2010/10/2059-5-guerra/]]></Url>
 	</Page>
 	<Page id="7">
 		<Title><![CDATA[6 - Final]]></Title>
@@ -138,7 +138,7 @@
 			<Image pos="9">../source/2059/page7/pg9_jpg.jpg</Image>
 			<Image pos="10">../source/2059/page7/pg10_jpg.jpg</Image>
 		</Img>
-		<Url><![CDATA[http://www.revista-exegesis.com/2011/06/2059-final/]]></Url>
+		<Url><![CDATA[http://revista-exegesis.com/2011/06/2059-final/]]></Url>
 	</Page>
 	<Page id="8">
 		<Title><![CDATA[Entrevista a Jesús Pérez]]></Title>

@@ -26,7 +26,7 @@
                     ?>
                 </a>
                 <?php /*<br />
-                <a href="colaboraciones/"><img src="//www.revista-exegesis.com/wp-content/uploads/2012/03/colabora-exegesis.png" alt="Colabora con Exégesis"></a> */ ?>
+                <a href="colaboraciones/"><img src="//revista-exegesis.com/wp-content/uploads/2012/03/colabora-exegesis.png" alt="Colabora con Exégesis"></a> */ ?>
 
             </li>
             <li class="third columns widget-box">
@@ -48,8 +48,8 @@
                 <p>Todos los contenidos incluidos son propiedad de sus autores y están publicadas bajo la licencia <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Reconocimiento-No comercial-Sin obras derivadas 3.0 Unported License</a>.</p>
                 <ul class="icon-footer">
                     <li><a rel="nofollow" title="Funcionamos con WordPress" class="icon icon-wordpress" href="http://wordpress.org/"><span>WordPress</span></a> </li>
-                    <li><a rel="nofollow" title="¡HTML5 Válido!" href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.revista-exegesis.com%2F" class="icon icon-html5"><span>HTML5</span></a></li>
-                    <li><a rel="nofollow" title="¡CSS3 Válido!" href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.revista-exegesis.com%2F" class="icon icon-css3"><span>CSS3</span></a></li>
+                    <li><a rel="nofollow" title="¡HTML5 Válido!" href="http://validator.w3.org/check?uri=http%3A%2F%2Frevista-exegesis.com%2F" class="icon icon-html5"><span>HTML5</span></a></li>
+                    <li><a rel="nofollow" title="¡CSS3 Válido!" href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Frevista-exegesis.com%2F" class="icon icon-css3"><span>CSS3</span></a></li>
                 </ul>
             </div><!-- .interior -->
         </div><!-- .subfooter -->

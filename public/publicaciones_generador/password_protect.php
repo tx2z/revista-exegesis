@@ -54,7 +54,7 @@ $LOGIN_INFORMATION = array(
 define('USE_USERNAME', false);
 
 // User will be redirected to this page after logout
-define('LOGOUT_URL', 'http://www.revista-exegesis.com');
+define('LOGOUT_URL', 'http://revista-exegesis.com');
 
 // time out after NN minutes of inactivity. Set to 0 to not timeout
 define('TIMEOUT_MINUTES', 0);
