@@ -1,0 +1,1162 @@
+[19-May-2012 19:30:00] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/publicator.php on line 32
+[30-May-2012 08:38:26] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 49
+[30-May-2012 08:38:26] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[30-May-2012 08:38:26] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[30-May-2012 08:38:26] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[30-May-2012 10:33:52] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 32
+[30-May-2012 10:33:52] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 58
+[21-Jul-2012 10:08:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:08:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:08:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:08:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:08:03] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:08:03] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:14:19] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:14:19] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:24:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:24:02] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:24:04] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:24:04] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:24:05] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:24:06] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:12] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:14] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:15] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:15] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:16] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:16] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:17] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:17] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:31:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:22] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 10:41:23] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:44:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:44:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:44:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:44:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:46:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:46:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:46:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:46:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 10:46:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:46:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:46:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 10:53:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 49
+[21-Jul-2012 10:53:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[21-Jul-2012 10:53:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[21-Jul-2012 10:53:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:00:07] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:00:07] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:00:07] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:00:07] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:06:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:15:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:07] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:15:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:15:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:15:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:15:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:17:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:17:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:17:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:17:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:20:20] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:21:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:21:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:21:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:21:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:22:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:22:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:22:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:22:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:23:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:23:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:23:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:23:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Jul-2012 11:24:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:24:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:24:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:24:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:32:39] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 11:32:39] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:34:44] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 11:34:44] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 47
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 53
+[21-Jul-2012 11:46:24] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 30
+[21-Jul-2012 11:46:24] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 56
+[21-Jul-2012 11:53:13] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[21-Jul-2012 11:53:13] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:54:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:54:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[21-Jul-2012 11:54:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[21-Jul-2012 11:57:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[21-Jul-2012 11:57:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:57:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:57:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[21-Jul-2012 11:57:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:21:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 12:21:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:21:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:21:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:21:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:21:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:28] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:29:28] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:29:28] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:29:29] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:29:29] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:29:29] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:29:29] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:29:29] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:29:29] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:23] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:25] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:25] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:25] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:25] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:26] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:26] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:13] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:14] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 12:57:14] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[24-Jul-2012 13:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:10:01] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 13:10:01] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:10:01] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[24-Jul-2012 13:11:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:11:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[24-Jul-2012 13:11:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 49
+[24-Jul-2012 13:11:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[24-Jul-2012 13:11:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[25-Jul-2012 12:54:43] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:54:44] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:54:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[25-Jul-2012 12:54:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:54:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:54:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:54:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:59:00] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:00] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:00] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:03] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:06] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:08] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 12:59:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[25-Jul-2012 12:59:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:59:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:59:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:59:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:59:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 12:59:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 12:59:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:53] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:54] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:54] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:54] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:54] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:54] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:08:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:08:54] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 13:08:54] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 13:08:54] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 13:08:54] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:24] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:25] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:25] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:26] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:27] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:28] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:29] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:30] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:31] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:32] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 13:15:33] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 13:15:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 13:15:33] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 13:15:33] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 13:15:33] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 13:15:33] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:09] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:10] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:11] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:11] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:11] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:11] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:12:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:40] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 48
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:17:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 54
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 31
+[25-Jul-2012 14:17:41] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/save.php on line 57
+[25-Jul-2012 14:18:54] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jul-2012 14:18:55] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 49
+[25-Jul-2012 14:18:55] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55
+[25-Jul-2012 14:18:55] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/generator.php on line 55

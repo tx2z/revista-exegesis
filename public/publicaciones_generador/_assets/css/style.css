@@ -1,0 +1,396 @@
+/*HTML5 Reset :: style.css*/
+html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,hgroup,menu,nav,section,time,mark,audio,video{border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0}article,aside,figure,footer,header,hgroup,nav,section{display:block}img,object,embed{max-width:100%}html{overflow-y:scroll}ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}a{font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted #000;cursor:help}table{border-collapse:collapse;border-spacing:0;font-size:inherit;font:100%}th{font-weight:700;vertical-align:bottom}td{font-weight:400;vertical-align:top}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}input,select{vertical-align:middle}pre{white-space:pre-line;word-wrap:break-word}input[type=radio]{vertical-align:text-bottom}input[type=checkbox]{vertical-align:baseline}.ie6 input{vertical-align:text-bottom}select,input,textarea{font:99% sans-serif}a:hover,a:active{outline:none}small{font-size:85%}strong,th{font-weight:700}td,td img{vertical-align:top}sub,sup{font-size:75%;line-height:0;position:relative}sup{top:-.5em}sub{bottom:-.25em}pre,code,kbd,samp{font-family:monospace, sans-serif}.clickable,input[type=button],input[type=submit],button{cursor:pointer}button,input,select,textarea{margin:0}button{width:auto;overflow:visible}.ie7 img{-ms-interpolation-mode:bicubic}.ie6 html{filter:expression(document.execCommand("BackgroundImageCache",false,true))}.clearfix:before,.clearfix:after{content:"\0020";display:block;height:0;overflow:hidden}.clearfix:after{clear:both}.clearfix{zoom:1}
+
+/* GENERIC STYLES */
+html {
+	height: 100%;
+	background: #FFF;
+}
+body {
+	min-height: 100%;
+	width: 970px;
+	margin: 100px auto 0;
+	background: #FFF;
+	line-height: 1.5em;
+	font: 13px Arial, Helvetica, sans-serif;
+	position: relative;
+}
+
+header {
+	background: #FFF;
+	height: 60px;
+	padding: 20px;
+	position: fixed;
+	top: 0;
+	width: 930px;
+	z-index: 200;
+}
+
+header h1 {
+	color: #333;
+	font-size: 2.3em;
+	text-align: center;
+}
+
+header .saveBackup {
+	position: absolute;
+	top: 20px;
+	right: 0;
+	width: 220px;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+header h2 {
+	position: absolute;
+	top: 5px;
+	left: 20px;
+}
+
+header .backupsList {
+	width: 200px;
+	background: white;
+	position: absolute;
+	top: 25px;
+	left: 20px;
+	height: 60px;
+	overflow-y: scroll;
+	border: solid 1px #CCC;
+	padding: 5px;
+}
+
+footer p {
+	padding-top: 40px;
+	text-align: center;
+}
+
+.assignNumber p {
+	text-align: center;
+	margin: 10px 0;	
+}
+
+.assignNumber h1 {
+	text-align: center;
+	margin: 150px 0 20px;
+	font-size: 1.8em;
+}
+
+.columns {
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 20px;
+	column-count: 3;
+	column-gap: 20px;
+	text-align: center;
+	padding: 20px 0;
+}
+
+/* @font-face */
+
+/* colors */
+body, select, input, textarea {
+	color: #333;
+}
+
+a {
+	color: #03f;
+	cursor: pointer;
+}
+a:hover {
+	color: #69f;
+}
+
+/* Custom text-selection colors */
+::-moz-selection {
+	background: #fcd700;
+	color: #fff;
+	text-shadow: none;
+}
+::selection {
+	background: #fcd700;
+	color: #fff;
+	text-shadow: none;
+}
+
+/*	highlight color (webkit) */
+a:link {
+	-webkit-tap-highlight-color: #fcd700;
+}
+
+ins {
+	background-color: #fcd700;
+	color: #000;
+	text-decoration: none;
+}
+mark {
+	background-color: #fcd700;
+	color: #000;
+	font-style: italic;
+	font-weight: bold;
+}
+
+/*	Form styles */
+fieldset, a.newFieldset {
+	background-color: #F2F7F9;
+	width: 365px;
+	padding: 20px;
+	margin: 20px;
+	border: 6px solid #8FB5C1;
+	position: relative;
+	float: left;
+}
+
+fieldset.send, fieldset.magazine {
+	background-color: #FFF;
+	border: none;
+	float: none;
+	margin: 20px auto;
+	clear: both;
+	text-align: center;
+}
+
+fieldset.magazine input {
+	display: inline;
+	margin-top: 15px;
+	text-align: center;
+	width: 30px;
+}
+
+fieldset.magazine input.pubicon {
+	display: inline;
+	width: 200px;
+}
+
+fieldset.magazine input.magazineNumber, fieldset.magazine input.magazineNumberFake {
+	width: 150px;
+}
+
+fieldset.magazine label {
+	display: inline;
+}
+
+fieldset:nth-child(odd) {
+	clear: both;
+}
+
+fieldset a.delete {
+	position: absolute;
+	top: 20px;
+	right: 10px;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 18px;
+	color: red;
+}
+
+fieldset a.delete:hover:before {
+	content:' eliminar pagina';
+	font-size: 0.8em;
+	border: solid 1px red;
+	background: #FFE4E1;
+	padding: 5px;
+	margin-right: 10px;
+}
+fieldset legend {
+	font-size: 30px;
+}
+
+fieldset h2 {
+	margin-bottom: 15px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+fieldset input, fieldset select, fieldset textarea, fieldset label {
+	font-size: 15px;
+	margin-bottom: 2px;
+}
+
+fieldset input, fieldset select, fieldset textarea, a.addImg {
+	width: 350px;
+	border: 1px solid #CEE1E8;
+	margin-bottom: 20px;
+	padding: 4px;
+	display: block;
+}
+
+a.deleteImg, a.editImg {
+	font-size: 10px;
+	color: red;
+}
+
+a.editImg {
+	color: green;
+}
+
+fieldset input:focus, fieldset select:focus, fieldset textarea:focus {
+	border: 1px solid #AFCDD8;
+	background-color: #EBF2F4;
+}
+
+fieldset .editTexarea {
+	display: block;
+	margin-bottom: 20px;
+}
+
+fieldset label {
+	display: block;
+}
+
+fieldset .required {
+	font-weight: bold;
+	color: #F00;
+}
+
+fieldset .fileButton {
+	height: 24px;
+	width: 96px;
+	display: inline;
+    position: absolute;
+    overflow: hidden;
+    border: solid 1px #333;
+    text-align: center;
+}
+
+fieldset #submit-button {
+	width: 100px;
+	background-color: #333;
+	color: #FFF;
+	border: none;
+	display: block;
+	float: right;
+	margin-bottom: 0px;
+	margin-right: 6px;
+	background-color: #8FB5C1;
+}
+
+fieldset #submit-button:hover {
+	background-color: #A6CFDD;
+}
+
+fieldset #submit-button:active {
+	position: relative;
+	top: 1px;
+}
+
+fieldset #loading {
+	width: 32px;
+	height: 32px;
+	background-image: url(../img/loading.gif);
+	display: block;
+	position: absolute;
+	right: 130px;
+	bottom: 16px;
+	display: none;
+}
+
+/* Remove box shadow firefox, chrome and opera put around required fields. It looks rubbish. */
+input:required, textarea:required {
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
+
+/* Normalize placeholder styles */
+
+/* chrome, safari */
+::-webkit-input-placeholder {
+	color: #CCC;
+	font-style: italic;
+}
+
+/* mozilla */
+input:-moz-placeholder, textarea:-moz-placeholder {
+	color: #CCC;
+	font-style: italic;
+}
+
+/* ie (faux placeholder) */
+input.placeholder-text, textarea.placeholder-text {
+	color: #CCC;
+	font-style: italic;
+}
+
+.ir {
+	display: block;
+	text-indent: -999em;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	text-align: left;
+	direction: ltr;
+}
+.hidden {
+	display: none;
+	visibility: hidden;
+}
+.visuallyhidden {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+}
+.invisible {
+	visibility: hidden;
+}
+.clearfix:before, .clearfix:after {
+	content: "\0020";
+	display: block;
+	height: 0;
+	overflow: hidden;
+}
+.clearfix:after {
+	clear: both;
+}
+.clearfix {
+	zoom: 1;
+}
+
+/* tinyMce Pop-up */
+.tinymce_popup {
+	position: relative;
+	background: #FFF;
+	box-shadow: 0 0 10px #000;
+	position: fixed;
+	margin: 0 auto;
+	top: 150px;
+	height:500px;
+	width: 970px;	
+}
+
+.tinymce_popup button {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+.tinymce_popup .imgInfo {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	width: 250px;
+	font-size: 0.8em;
+}
+
+/* PRELOAD */
+body.preload {
+}
+body.preload * {
+	-webkit-transition: none !important;
+	-moz-transition: none !important;
+	-ms-transition: none !important;
+	-o-transition: none !important
+}

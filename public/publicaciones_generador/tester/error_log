@@ -1,0 +1,8 @@
+[24-Jul-2012 13:28:10] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 122
+[24-Jul-2012 13:28:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 122
+[24-Jul-2012 13:31:02] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 158
+[24-Jul-2012 13:31:02] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 158
+[24-Jul-2012 13:31:02] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 158
+[24-Jul-2012 13:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 158
+[24-Jul-2012 13:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 158
+[24-Jul-2012 13:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home/tx2z/public_html/revista-exegesis.com/generador_de_publicaciones/tester/tester.php on line 158
