@@ -20,7 +20,7 @@
                 <a href="https://www.facebook.com/groups/revistaexegesis/" target="_blank">
                     <?php
                     // Lazy image
-                    $img_html = '<img src="//cdn.revista-exegesis.com/wp-content/uploads/2012/03/unete-grupo.png" alt="Unete a nuestro grupo de Facebook">';
+                    $img_html = '<img src="//revista-exegesis.com/wp-content/uploads/2012/03/unete-grupo.png" alt="Unete a nuestro grupo de Facebook">';
                     $img_html = apply_filters( 'bj_lazy_load_html', $img_html );
                     echo $img_html;
                     ?>
