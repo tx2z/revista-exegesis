@@ -138,7 +138,7 @@ class Root {
 			$indexes[] = $this->buildIndex( 'date', $result[0]->amountOfUrls );
 		}
 
-		return apply_filters( 'aioseo_sitemap_indexes', $indexes );
+		return apply_filters( 'aioseo_sitemap_indexes', array_filter( $indexes ) );
 	}
 
 	/**
@@ -299,6 +299,10 @@ class Root {
 		$postsTable       = $prefix . 'posts';
 		$aioseoPostsTable = $prefix . 'aioseo_posts';
 		$linksPerIndex    = aioseo()->sitemap->linksPerIndex;
+
+		if ( 'attachment' === $postType && 'disabled' !== aioseo()->dynamicOptions->searchAppearance->postTypes->attachment->redirectAttachmentUrls ) {
+			return [];
+		}
 
 		$posts = aioseo()->core->db->execute(
 			aioseo()->core->db->db->prepare(
