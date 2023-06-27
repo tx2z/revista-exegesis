@@ -1,4 +1,4 @@
-# revista-exegesis wrodpress code
+# revista-exegesis wordpress code
 
 Visita  [https://revista-exegesis.com](revista-exegesis.com)
 
