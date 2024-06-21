@@ -46,7 +46,7 @@ class PostMeta {
 	 * @return void
 	 */
 	public function importPostMeta() {
-		$postsPerAction  = 100;
+		$postsPerAction  = apply_filters( 'aioseo_import_yoast_seo_posts_per_action', 100 );
 		$publicPostTypes = implode( "', '", aioseo()->helpers->getPublicPostTypes( true ) );
 		$timeStarted     = gmdate( 'Y-m-d H:i:s', aioseo()->core->cache->get( 'import_post_meta_yoast_seo' ) );
 
@@ -240,15 +240,19 @@ class PostMeta {
 							$keyphrases = (array) json_decode( $meta[ $mappedMeta[ $name ] ] );
 						}
 
-						$yoastKeyphrases = json_decode( $value );
-						for ( $i = 0; $i < count( $yoastKeyphrases ); $i++ ) {
-							$keyphrase = [ 'keyphrase' => aioseo()->helpers->sanitizeOption( $yoastKeyphrases[ $i ]->keyword ) ];
+						$yoastKeyphrases = json_decode( $value, true );
+						if ( is_array( $yoastKeyphrases ) ) {
+							foreach ( $yoastKeyphrases as $yoastKeyphrase ) {
+								if ( ! empty( $yoastKeyphrase['keyword'] ) ) {
+									$keyphrase = [ 'keyphrase' => aioseo()->helpers->sanitizeOption( $yoastKeyphrase['keyword'] ) ];
 
-							if ( ! isset( $keyphrases['additional'] ) ) {
-								$keyphrases['additional'] = [];
+									if ( ! isset( $keyphrases['additional'] ) ) {
+										$keyphrases['additional'] = [];
+									}
+
+									$keyphrases['additional'][] = $keyphrase;
+								}
 							}
-
-							$keyphrases['additional'][ $i ] = $keyphrase;
 						}
 
 						if ( ! empty( $keyphrases ) ) {

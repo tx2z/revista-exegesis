@@ -8,6 +8,6 @@ Exégesis está actualmente inactivo, pero se conserva su página online.
 
 Este repositorio alberga los archivos de wordpress que generan el sitio.
 
-Los archivos descargable de los número publicados pueden encontrarse en https://mega.nz/folder/ZCMRzaqA#1K_Zvc-Fj0ORLVRQTuHxoA
+Los archivos descargables de los números publicados pueden encontrarse en https://mega.nz/folder/ZCMRzaqA#1K_Zvc-Fj0ORLVRQTuHxoA
 
 Si alguien está interesado en revivir Exégesis o dejar cualquier mensaje en relación al sitio, puede contactarme a través de este repositorio.
